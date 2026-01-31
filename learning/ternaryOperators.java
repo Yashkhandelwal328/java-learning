@@ -1,3 +1,4 @@
+package learning;
 public class ternaryOperators {
     public static void main(String[] args) {
         

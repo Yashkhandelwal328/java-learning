@@ -1,3 +1,4 @@
+package learning;
 public class stringMeathods {
     public static void main(String[] args) {
         String name = "Meow Cato";

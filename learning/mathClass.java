@@ -1,3 +1,4 @@
+package learning;
 public class mathClass {
     public static void main(String[] args) {
         // System.out.println(Math.PI); // its means pie
