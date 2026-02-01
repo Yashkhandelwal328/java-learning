@@ -1,7 +1,6 @@
 package programs;
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 public class reverseNumber {
     public static void main(String[] args) {
