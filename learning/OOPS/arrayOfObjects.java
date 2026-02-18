@@ -13,8 +13,15 @@ public class arrayOfObjects {
         //     cars[i].drive();
         // }
 
-        for(Car1 car : cars){
+        for(Car1 car : cars){ // this is called enhanced for loop
             car.drive();
         }
+
+        // we can als0 do it like :
+        // Car1[] cars = {
+        //     new Car("Mustang","Red");
+        //     new Car("Corvette","Blue");
+        //     new Car("Charger","Yellow");
+        // }
     }
 }
